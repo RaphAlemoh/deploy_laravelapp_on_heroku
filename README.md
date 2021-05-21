@@ -1,3 +1,9 @@
+![Laravel app on heroku](https://user-images.githubusercontent.com/35805010/119188640-ca962980-ba2f-11eb-82a7-5a7b8eb68efd.png)
+
+
+(https://alemsbaja.hashnode.dev/hosting-laravel-apps-on-heroku-with-database)[Tutorial on hashnode]
+
+
 ###
 Edit
 Using fee based production environment for testing is quite expensive for a project that's most likely isn't a paid one probably trying to build up a portfolio as a developer to show case your skills to the world. There are quite a number of platforms that can be use for testing apps with the feel of a production environment but in this article we'll be hosting laravel application on Heroku with database.
@@ -12,3 +18,4 @@ In this tutorial we'll be creating a basic authentication app using laravel. Her
 
 ###
 
+(https://github.com/RaphAlemoh/deploy_laravelapp_on_heroku)[Github repository]
