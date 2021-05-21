@@ -1,7 +1,7 @@
 ![Laravel app on heroku](https://user-images.githubusercontent.com/35805010/119188640-ca962980-ba2f-11eb-82a7-5a7b8eb68efd.png)
 
 
-[https://alemsbaja.hashnode.dev/hosting-laravel-apps-on-heroku-with-database](Tutorial on hashnode)
+![https://alemsbaja.hashnode.dev/hosting-laravel-apps-on-heroku-with-database)[Tutorial on hashnode]
 
 
 ###
@@ -18,4 +18,4 @@ In this tutorial we'll be creating a basic authentication app using laravel. Her
 
 ###
 
-[https://github.com/RaphAlemoh/deploy_laravelapp_on_heroku](Github repository)
+![https://github.com/RaphAlemoh/deploy_laravelapp_on_heroku](Github repository)
